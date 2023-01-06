@@ -1,3 +1,2 @@
-# Git-class
-Kiran DevOps Training git
-i am pranav
+print("Hello Kiran)
+print(50+50)
